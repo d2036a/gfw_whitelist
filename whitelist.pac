@@ -7784,6 +7784,7 @@ var white_domains = {"am":{
 "yousee":1,
 "youshang":1,
 "youtx":1,
+"youtube":1,	
 "youwo":1,
 "youxi":1,
 "youxiake":1,
